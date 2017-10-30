@@ -24,8 +24,8 @@
     <entry-point class='kov.develop.client.GwtApp'/>
 
     <!-- Specify the paths for translatable code                    -->
-    <source path='kov.develop.client'/>
-    <source path='kov.develop.shared'/>
+    <source path='client'/>
+    <source path='shared'/>
 
     <!-- allow Super Dev Mode -->
     <add-linker name="xsiframe"/>
