@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: small;
+    margin: 8px;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: green;
+    margin: 20px 0px 20px;
+    text-align: center;
+}
+
+.sendButton {
+    display: block;
+    font-size: 16pt;
+}
+
+#mainPanelContainer {
+    border: solid;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+
+
